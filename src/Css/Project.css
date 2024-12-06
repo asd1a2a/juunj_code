@@ -1,0 +1,31 @@
+.project {
+	width: 100%;
+	max-width: 1920px;
+	min-width: 1500px;
+	display: flex;
+	justify-content: start;
+	flex-flow: column nowrap;
+	align-items: center;
+	color: #fff;
+}
+
+.project-h1 {
+	line-height: 80px;
+	border-bottom: 1px solid #fff;
+}
+
+.project-detail {
+	width: 500px;
+	margin: 20px 0;
+}
+
+.project-detail h3 {
+	margin: 0 0 20px 0;
+}
+
+.project-detail p {
+	width: 100%;
+	line-height: 21px;
+
+	border-bottom: 1px solid #fff;
+}

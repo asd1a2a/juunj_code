@@ -31,7 +31,7 @@ function Header() {
 								<Link to="/juunj/campaign/">CAMPAIGN</Link>
 							</li>
 							<li>
-								<Link to="">PROJECT</Link>
+								<Link to="/juunj/project/">PROJECT</Link>
 							</li>
 							<li>
 								<Link to="">STORES</Link>
