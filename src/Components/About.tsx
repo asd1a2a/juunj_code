@@ -5,7 +5,7 @@ function About() {
 	return (
 		<div className="about-wrap">
 			<p>About Juun.J</p>
-			<img src="http://www.juunj.com/images/about/about.jpg" alt="juunj" />
+			<img src="http://www.juunj.com/images/about/about.jpg" />
 			<h3>Detournement d'un Classique / Diversion of Classic</h3>
 			<span>
 				Juun.J graduated from ESMOD Seoul in 1992 and worked at many prestigious fashion houses before creating his own label "Lone Costume" in 1999. Not long after showing at Seoul Fashion

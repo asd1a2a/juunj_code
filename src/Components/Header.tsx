@@ -14,7 +14,7 @@ function Header() {
 		<header>
 			<div className="h-wrap">
 				<div className="h-top">
-					<Link to="/">
+					<Link to="/juunj/">
 						<h1 className="main-logo">Juun.J</h1>
 					</Link>
 				</div>
@@ -22,13 +22,13 @@ function Header() {
 					<nav>
 						<ul>
 							<li>
-								<Link to="/about">ABOUT JUUN.J</Link>
+								<Link to="/juunj/about/">ABOUT JUUN.J</Link>
 							</li>
 							<li>
-								<Link to="/collection">COLLECTIONS</Link>
+								<Link to="/juunj/collection/">COLLECTIONS</Link>
 							</li>
 							<li>
-								<Link to="/campaign">CAMPAIGN</Link>
+								<Link to="/juunj/campaign/">CAMPAIGN</Link>
 							</li>
 							<li>
 								<Link to="">PROJECT</Link>

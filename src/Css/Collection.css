@@ -1,5 +1,7 @@
 .collection-wrap {
-	width: 1920px;
+	width: 100%;
+	min-width: 1500px;
+	max-width: 1920px;
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: center;

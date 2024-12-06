@@ -17,10 +17,10 @@ function App() {
 		<div className="main">
 			<Header></Header>
 			<Routes>
-				<Route path="/" element={<Main></Main>}></Route>
-				<Route path="/about" element={<About></About>}></Route>
-				<Route path="/collection" element={<Collection></Collection>}></Route>
-				<Route path="/campaign" element={<Campaign></Campaign>}></Route>
+				<Route path="/juunj/" element={<Main></Main>}></Route>
+				<Route path="/juunj/about/" element={<About></About>}></Route>
+				<Route path="/juunj/collection/" element={<Collection></Collection>}></Route>
+				<Route path="/juunj/campaign/" element={<Campaign></Campaign>}></Route>
 			</Routes>
 			<Footer></Footer>
 		</div>

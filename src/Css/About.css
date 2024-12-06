@@ -1,5 +1,6 @@
 .about-wrap {
-	width: 1920px;
+	width: 100%;
+	min-width: 1500px;
 	max-width: 1920px;
 	color: #fff;
 	display: flex;
