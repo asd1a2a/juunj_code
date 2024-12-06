@@ -1,0 +1,15 @@
+.collection-wrap {
+	width: 1920px;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+}
+
+.collection-h1 {
+	line-height: 50px;
+	border-bottom: 1px solid #fff;
+	font-size: 20px;
+	margin: 20px 0;
+}

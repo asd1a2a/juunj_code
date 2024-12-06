@@ -1,0 +1,17 @@
+footer {
+	width: 100%;
+	max-width: 1920px;
+	min-width: 1500px;
+	color: #fff;
+}
+
+footer div {
+	width: 100%;
+}
+
+footer div p {
+	width: 100%;
+	text-align: center;
+	line-height: 50px;
+	font-size: 13px;
+}

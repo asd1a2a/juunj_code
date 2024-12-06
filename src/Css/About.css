@@ -1,0 +1,32 @@
+.about-wrap {
+	width: 1920px;
+	max-width: 1920px;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-flow: column nowrap;
+}
+
+.about-wrap p {
+	line-height: 50px;
+	border-bottom: 1px solid #fff;
+	font-size: 20px;
+	margin: 20px 0;
+}
+
+.about-wrap img {
+	margin: 20px 0;
+	width: 400px;
+}
+
+.about-wrap h3 {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.about-wrap span {
+	width: 1000px;
+	margin: 20px 0;
+}
